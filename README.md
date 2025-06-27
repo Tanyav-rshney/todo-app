@@ -20,7 +20,7 @@ A simple and elegant ToDo App where users can **add tasks**, **mark them as comp
 
 ## 📁 GitHub Repository
 
-👉 (https://github.com/Tanyav-rshney/todo-app)
+👉 https://github.com/Tanyav-rshney/todo-app
 
 ---
 
